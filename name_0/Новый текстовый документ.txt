@@ -1,0 +1,13 @@
+print(5)
+print('5+5')
+print("Hello world!")
+print('Hello world '+"From Mark")
+my_name = "Mark"
+print(my_name)
+print("Меня зовут "+my_name)
+name=input("Введите ваше имя ")
+print()
+print('Привет '+name)
+
+print("Компьютер загадал число от 1 до 10. Попробуйде его угадать")
+sekret_number=3
